@@ -1,6 +1,6 @@
 <?php 
 
-echo "Teste 456!";
+echo "Teste 123456!";
 
 echo "nao sei oque escrever";
 
